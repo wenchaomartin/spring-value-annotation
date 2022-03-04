@@ -18,7 +18,8 @@
     <groupId>me</groupId>
     <artifactId>spring</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring</name>
+    <name>spring-value-annotation</name>
+
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
